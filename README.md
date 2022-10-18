@@ -7,3 +7,5 @@ To get this running you must have virtualbox installed and also need vagrant ins
  once vagrant is installed you can clone this repo and use this command: vagrant up
  
  this will launch the vagrant software and connect with virtualbox to creat 3 different vms.
+
+to destroy these vms use the command: vagrant destroy
